@@ -1,0 +1,7 @@
+import { a as patchEsm, b as bootstrapLazy } from './core-2766176a.js';
+var defineCustomElements = function (win, options) {
+    return patchEsm().then(function () {
+        bootstrapLazy([["my-component", [[1, "my-component", { "api": [16], "amount": [32], "currency": [32], "refresh": [64] }]]]], options);
+    });
+};
+export { defineCustomElements };

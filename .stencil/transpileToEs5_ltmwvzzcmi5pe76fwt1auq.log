@@ -1,0 +1,4 @@
+import { p as patchBrowser, b as bootstrapLazy } from './core-2766176a.js';
+patchBrowser().then(function (options) {
+    return bootstrapLazy([["my-component", [[1, "my-component", { "api": [16], "amount": [32], "currency": [32], "refresh": [64] }]]]], options);
+});

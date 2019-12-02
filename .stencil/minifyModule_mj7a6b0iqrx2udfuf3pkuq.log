@@ -1,0 +1,1 @@
+import{p as r,b as p}from"./p-6f017bd8.js";r().then(r=>p([["p-45qd1trc",[[1,"my-component",{api:[16],amount:[32],currency:[32],refresh:[64]}]]]],r));

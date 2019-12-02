@@ -1,0 +1,1 @@
+System.register(["./p-df231c76.system.js"],(function(){"use strict";var e,t;return{setters:[function(n){e=n.p;t=n.b}],execute:function(){e().then((function(e){return t([["p-z8y3qyzo.system",[[1,"my-component",{api:[16],amount:[32],currency:[32],refresh:[64]}]]]],e)}))}}}));
