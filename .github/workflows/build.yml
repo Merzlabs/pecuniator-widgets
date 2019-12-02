@@ -23,7 +23,7 @@ jobs:
       run: |
         npm i
         npm run build --if-present
-        cd pecuniator-widgets && npm test
+        npm test
       env:
         CI: true
         NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
