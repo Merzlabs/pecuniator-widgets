@@ -8,7 +8,7 @@
     "url": "ssh://git@github.com/Merzlabs/pecuniator-widgets.git",
     "directory": "packages/widgets"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Collection of UI widgets for pecuniator dashboards",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
