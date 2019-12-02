@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "public": "pecuniator-widgets/dist",
+    "public": "dist",
     "taget": "widgets",
     "site": "pecuniator-widgets",
     "ignore": [
